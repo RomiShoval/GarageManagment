@@ -1,0 +1,7 @@
+C:\Users\avivl\Documents\C#\Ex3\B21 Ex03 AvivLiberman 313294399 RomiShoval 318964178\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\avivl\Documents\C#\Ex3\B21 Ex03 AvivLiberman 313294399 RomiShoval 318964178\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\avivl\Documents\C#\Ex3\B21 Ex03 AvivLiberman 313294399 RomiShoval 318964178\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\avivl\Documents\C#\Ex3\B21 Ex03 AvivLiberman 313294399 RomiShoval 318964178\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\avivl\Documents\C#\Ex3\B21 Ex03 AvivLiberman 313294399 RomiShoval 318964178\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\avivl\Documents\C#\Ex3\B21 Ex03 AvivLiberman 313294399 RomiShoval 318964178\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\avivl\Documents\C#\Ex3\B21 Ex03 AvivLiberman 313294399 RomiShoval 318964178\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
