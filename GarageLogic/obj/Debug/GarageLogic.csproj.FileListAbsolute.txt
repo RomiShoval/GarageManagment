@@ -1,0 +1,6 @@
+C:\Users\97252\OneDrive\שולחן העבודה\Bsc.ComputerScience\מדמח - שנה ב\סמסטר ב\C#\GarageManagement\Ex03.GarageLogic\bin\Debug\EX03.GarageLogic.dll.config
+C:\Users\97252\OneDrive\שולחן העבודה\Bsc.ComputerScience\מדמח - שנה ב\סמסטר ב\C#\GarageManagement\Ex03.GarageLogic\bin\Debug\EX03.GarageLogic.dll
+C:\Users\97252\OneDrive\שולחן העבודה\Bsc.ComputerScience\מדמח - שנה ב\סמסטר ב\C#\GarageManagement\Ex03.GarageLogic\bin\Debug\EX03.GarageLogic.pdb
+C:\Users\97252\OneDrive\שולחן העבודה\Bsc.ComputerScience\מדמח - שנה ב\סמסטר ב\C#\GarageManagement\Ex03.GarageLogic\obj\Debug\GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\97252\OneDrive\שולחן העבודה\Bsc.ComputerScience\מדמח - שנה ב\סמסטר ב\C#\GarageManagement\Ex03.GarageLogic\obj\Debug\EX03.GarageLogic.dll
+C:\Users\97252\OneDrive\שולחן העבודה\Bsc.ComputerScience\מדמח - שנה ב\סמסטר ב\C#\GarageManagement\Ex03.GarageLogic\obj\Debug\EX03.GarageLogic.pdb
